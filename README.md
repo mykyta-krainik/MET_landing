@@ -4,5 +4,9 @@
     - HTML
     - CSS (SCSS), BEM
     - JS
+  - Features:
+    - Implement interaction with a client using only HTML
+    - Reuse styles that prevent us from writing new portions of code
+    - Implement the mechanism for responsive image behaviour
   - [**Preview**](https://mykyta-krainik.github.io/MET_landing/)
   - [**Based on the landing**](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
