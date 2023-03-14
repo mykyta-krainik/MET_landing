@@ -4,7 +4,7 @@
     - HTML
     - CSS (SCSS), BEM
     - JS
-  - Features:
+  - **Features**:
     - Implement interaction with a client using only HTML
     - Reuse styles that prevent us from writing new portions of code
     - Implement the mechanism for responsive image behaviour
